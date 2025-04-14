@@ -259,7 +259,7 @@ input[type="submit"] {
 		margin-top: 0;
 		margin-bottom: 1em;
 	}
-	#about-me h6, #about-me p {
+	#about-me h3, #about-me p {
 		width: 100%;
 	}
 }
@@ -297,8 +297,11 @@ input[type="submit"] {
 	.service__description{
 		margin-bottom: 1em;
 	}
-	.service__description h4{
+	.service__description h3{
 		font-size: 1.75rem;
+	}
+	.service__price h3 {
+		font-size: 1.5rem;
 	}
 
 	#services .container::before{
