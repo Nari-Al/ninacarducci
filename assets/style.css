@@ -97,6 +97,7 @@ body {
 .title{
 	text-align: center;
 	padding-block: 2em;
+	font-size: 1.75rem;
 }
 .gallery .nav {
 	justify-content: center;
@@ -214,7 +215,9 @@ body {
 }
 .form-container {
 	flex : 2;
-
+}
+.from-container h2 {
+	font-size: 1.75rem;
 }
 form {
 	display: flex;
